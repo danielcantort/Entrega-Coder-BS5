@@ -279,3 +279,12 @@ p {
 .form-control {
   padding: .375rem .25rem
 }
+
+/* Nosotros Styles */
+.text-color {
+  color: #fff
+}
+
+.carousel-item img {
+  height: 400px
+}
